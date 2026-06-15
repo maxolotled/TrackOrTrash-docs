@@ -5,21 +5,21 @@ layout: home
 hero:
   name: "Docs - Track or Trash"
   text: "Documentation for trackortrash.me"
-  tagline: My great project tagline
+  tagline: "The only playlist sorter you'll need - and for free."
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Logging in with spotify
+      link: /spotify
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: FAQ
+      link: /faq
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Sort your playlists
+    details: Swipe left or right, like you're dating
+  - title: Supports all Spotify Premium accounts
+    details: Blame spotify, non-premium listeners
+  - title: 100% free forever
+    details: We're not as greedy as certain green companies
 ---
 
