@@ -20,12 +20,6 @@ export default defineConfig({
           { text: 'Making your application', link: '/spotify' },
           { text: 'Using an existing application', link: '/spotify-existing' }
         ]
-      },
-      { text: 'How to use',
-        items: [
-          { text: 'How to sort your songs', link: '/how-to' },
-          { text: 'Frequently asked questions', link: '/faq' }
-        ]
       }
     ],
 

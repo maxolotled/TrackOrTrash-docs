@@ -41,5 +41,4 @@ To log in easier next time, save the credentials as passwords in your browser!
 Check the FAQ for common errors when signing in, and how to fix them: [FAQ](/faq)
 :::
 
-Congratulations, you've signed into Track or Trash succesfully!  
-For info on sorting your playlists, check [this page](/how-to)
+Congratulations, you've signed into Track or Trash succesfully! Have fun sorting.
