@@ -12,6 +12,10 @@ Both videos and audio, without needing to supply your own API keys
 - Deezer & Soundcloud support
 - Apple Music support
 :::
+::: details What's up with these YouTube playlists?!
+Youtube considers music and regular videos to be the same. Because of this, your regular youtube playlists show as well as your music ones.
+We have no way to differentiate between the two for now - so you'll need to pick out the music ones, or sort through your video's while you're at it!
+:::
 ::: details I can't sign in!
 Oh no! Make sure you followed the exact instructions in the [tutorial](/spotify). Your client ID, secret, and redirect URI must be configured **exactly** as shown in the tutorial, or it will not work! Also refer to the error message given by Spotify.
 :::
