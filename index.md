@@ -17,7 +17,7 @@ hero:
 features:
   - title: Sort your playlists
     details: Swipe left or right, like you're dating
-  - title: Supports all Spotify Premium accounts
+  - title: Supports all Spotify Premium accounts and Youtube Music playlists.
     details: Blame spotify, non-premium listeners
   - title: 100% free forever
     details: We're not as greedy as certain green companies

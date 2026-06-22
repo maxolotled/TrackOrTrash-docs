@@ -1,10 +1,16 @@
 # Frequently Asked Questions
 ::: details What is Track or Trash?
-Track or Trash is the easiest way to sort your Spotify playlists in 2026! Simply use arrow keys or the buttons to sort your songs into the right category: track, trash, or love.
+Track or Trash is the easiest way to sort your Spotify or Youtube Music playlists in 2026! Simply use arrow keys or the buttons to sort your songs into the right category: track, trash, or love.
+:::
+::: details Why do I need spotify premium?
+Spotify limits the creation of developer apps to Premium users. This also applies to listening off-site.
+Unfortunately, we can't do anything to change this without breaking their TOS - sorry!
 :::
 ::: details What music services does this support?
-We currently only support Spotify, and your own API keys must be supplied.
-I'm working on adding more!
+TrackorTrash supports both Spotify and YouTube music!
+For Spotify, you need:
+- to provide your own API keys
+- Spotify Premium
 :::
 ::: details What's the roadmap look like?
 - Deezer & Soundcloud support
