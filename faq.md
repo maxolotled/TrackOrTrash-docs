@@ -2,6 +2,16 @@
 ::: details What is Track or Trash?
 Track or Trash is the easiest way to sort your Spotify playlists in 2026! Simply use arrow keys or the buttons to sort your songs into the right category: track, trash, or love.
 :::
+::: details What music services does this support?
+We currently only support Spotify, and your own API keys must be supplied.
+I'm working on adding more!
+:::
+::: details What's the roadmap look like?
+- Youtube support - currently being worked on!
+Both videos and audio, without needing to supply your own API keys
+- Deezer & Soundcloud support
+- Apple Music support
+:::
 ::: details I can't sign in!
 Oh no! Make sure you followed the exact instructions in the [tutorial](/spotify). Your client ID, secret, and redirect URI must be configured **exactly** as shown in the tutorial, or it will not work! Also refer to the error message given by Spotify.
 :::
