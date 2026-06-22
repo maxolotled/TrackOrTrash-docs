@@ -7,8 +7,6 @@ We currently only support Spotify, and your own API keys must be supplied.
 I'm working on adding more!
 :::
 ::: details What's the roadmap look like?
-- Youtube support - currently being worked on!
-Both videos and audio, without needing to supply your own API keys
 - Deezer & Soundcloud support
 - Apple Music support
 :::
