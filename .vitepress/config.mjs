@@ -22,9 +22,11 @@ export default defineConfig({
         ]
       },
       {
-        text: 'FAQ',
+        text: 'FAQ & stuff',
         items: [
           { text: 'Frequently Asked Questions', link: '/faq' },
+          { text: 'Privacy Policy', link: '/privacy' },
+          { text: 'Terms of Service', link: '/tos' },
         ]
       }
     ],
